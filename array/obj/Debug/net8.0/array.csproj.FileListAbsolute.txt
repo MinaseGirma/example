@@ -1,0 +1,15 @@
+C:\Users\gtaye\source\repos\example\array\bin\Debug\net8.0\array.exe
+C:\Users\gtaye\source\repos\example\array\bin\Debug\net8.0\array.deps.json
+C:\Users\gtaye\source\repos\example\array\bin\Debug\net8.0\array.runtimeconfig.json
+C:\Users\gtaye\source\repos\example\array\bin\Debug\net8.0\array.dll
+C:\Users\gtaye\source\repos\example\array\bin\Debug\net8.0\array.pdb
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.AssemblyInfo.cs
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.sourcelink.json
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.dll
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\refint\array.dll
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.pdb
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\array.genruntimeconfig.cache
+C:\Users\gtaye\source\repos\example\array\obj\Debug\net8.0\ref\array.dll
